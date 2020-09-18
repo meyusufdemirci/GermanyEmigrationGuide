@@ -9,7 +9,7 @@ The whole process starts with your company sends 2 signed papers of the original
 # Visa Appointment
 As soon as you get the job offer, supposed to get an appointment from the embassy.
 
-The documents that are demanded by the embassy
+The documents that are demanded by the embassy,
 - Visa application form. Can be filled online from [here](https://videx-national.diplo.de/videx/visum-erfassung/#/videx-langfristiger-aufenthalt) (2 copies)
 - The job offer (2 copies)
 - Biometric photo (2 copies)
@@ -23,3 +23,6 @@ The documents that are demanded by the embassy
 - Health insurance until the job's starting day
 
 Do not forget to need these as **2 copies**. They keep all of them and do not give them back to you (The passport is given back after the embassy approves the application). Also, you pay **75 €** **cash** to the embassy. It must be euro, not another currency.
+
+**Corona Attention**<br/>
+Incase coronavirus, the embassy demands an **employer letter** which is about "Why your travel is important economically and must happen as soon as possible". You need 2 copies of it like other documents.
