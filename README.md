@@ -1,6 +1,8 @@
 # Steps
 - [Job Offer](#job-offer)
 - [Visa Appointment](#visa-appointment)
+- [Before Germany](#before-germany)
+- [Welcome to Germany](#welcome-to-germany)
 
 # Job Offer
 Congratulations! You got a job offer and you are ready to go. You have dealt with the company and they are happy to work with you. 
@@ -26,3 +28,27 @@ Do not forget to need these as **2 copies**. They keep all of them and do not gi
 
 **Corona Attention**<br/>
 Incase coronavirus, the embassy demands an **employer letter** which is about "Why your travel is important economically and must happen as soon as possible". You need 2 copies of it like other documents.
+
+# Before Germany
+You got the visa, congratulations again! Before coming to Germany, I would like to get your attention at some points.
+
+### Accommadiation
+  Keep in mind, that's not easy to find a house than where you are coming from. To make it easier and less stressful I highly recommend booking a house from a serviced apartment or Airbnb for the first month. It can be extended every end of the month until to find a house. 
+  <br/><br/>**SUPER IMPORTANT NOTE: ASK YOUR LANDLORD IF YOU CAN DO "ANMELDUNG" WITH HIS/HER HOUSE**<br/><br/>
+  Anmeldung: The address registration process that you have to do in 2 weeks from the date you arrived in Germany. I will explain the details about Anmeldung in the next section.
+  <br/>Have a look at your office's location on Google Maps before booking a place. It provides you to think about transportation from home to the office or visa versa.
+  
+### Passport Control in Airport
+  Recommended to have the job contract and employer letter to show to the border police.
+
+# Welcome to Germany
+You settled up your home and ready to start a new adventure. Don't forget that almost all stores including supermarkets are closed on Sundays and holidays. Here are the things you are supposed to starts as soon as you come.
+### Public Transportation Ticket
+  You can easily buy it from any metro station from a machine. It's recommended to buy at least monthly to use for U-Bahn, S-Bahn, Tram and Bus.
+### Anmeldung
+  It is an address registration you have to do firstly. The whole other processes are related to Anmeldung. You can select an appointment date from [here](https://www.muenchen.de/rathaus/terminvereinbarung_bb.html) by tapping "Meldeangelegenheiten" and selecting 1 for "An- oder Ummeldung - Einzelperson" if you are applying only for yourself.
+  The papers that are required for Anmeldung,
+  - Registration Form: You can download [here](https://www.muenchen.de/rathaus/home_en/Department-of-Public-Order/Registration-Deregistration.html) in the "Downloads" section at the bottom. You just need to fill the registration form("Vollmacht zur Vorlage bei der Meldebehörde" in German). Don't forget to print it.
+  - Wohnungsübergabe Form: You just ask your landlord and he/she provides for you. Must be his/her signature on the document.
+  - Übergabeprotokoll: It is a protocol that shows you entered the house. Again, you ask your landlord and must be his/her signature on the document.
+  - Passport
