@@ -2,7 +2,11 @@
 - [Job Offer](#job-offer)
 - [Visa Appointment](#visa-appointment)
 - [Before Germany](#before-germany)
+  - [Accommadiation](#accommadiation)
 - [Welcome to Germany](#welcome-to-germany)
+  - [Public Transportation Ticket](#public-transportation-ticket)
+  - [Anmeldung](#anmeldung)
+  - [Tax ID](#tax-id)
 
 # Job Offer
 Congratulations! You got a job offer and you are ready to go. You have dealt with the company and they are happy to work with you. 
