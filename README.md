@@ -52,3 +52,5 @@ You settled up your home and ready to start a new adventure. Don't forget that a
   - Wohnungsübergabe Form: You just ask your landlord and he/she provides for you. Must be his/her signature on the document.
   - Übergabeprotokoll: It is a protocol that shows you entered the house. Again, you ask your landlord and must be his/her signature on the document.
   - Passport
+### Tax ID
+  When the Anmeldung is done, you will get the document that includes your Tax ID, by mail. As soon as you get it, tell the Tax ID to the employer to be able to get your salary.
