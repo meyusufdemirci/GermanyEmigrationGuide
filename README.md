@@ -7,6 +7,7 @@
   - [Public Transportation Ticket](#public-transportation-ticket)
   - [Anmeldung](#anmeldung)
   - [Tax ID](#tax-id)
+  - [Bank Account](#bank-account)
 
 # Job Offer
 Congratulations! You got a job offer and you are ready to go. You have dealt with the company and they are happy to work with you. 
@@ -58,3 +59,9 @@ You settled up your home and ready to start a new adventure. Don't forget that a
   - Passport
 ### Tax ID
   When the Anmeldung is done, you will get the document that includes your Tax ID, by mail. As soon as you get it, tell the Tax ID to the employer to be able to get your salary.
+### Bank Account
+There 2 options to open a bank account, neo banks or conventional banks. I suggest you have at least 1 account from each of them. They are 2 kinds of Debit cards in Germany, GIRO and EC. Some small shops don't accept EC card. On the other hand, some online stores don't accept GIRO card.
+#### Neo Bank (Branchless)
+They are fast, usable, global, and modern. You can even get the salary with them. N26 and Bunq are the most known ones and they are free. Since N26 is a German startup, I am using it. Both of them provide only EC card. Also, N26 has integration with Transferwise to make international money transfers with affordable a fee. If you would like to use N26, you can use my referral code, yusufd4557.
+#### Conventional Bank (Corporate)
+They are old-fashion and slow but you need them. Somehow you might need to provide that you live in Germany for some reason such as registering a system, company, etc. You can use your bank statement for that. Also, it is helpful to your credit score in the future. Because they have branches and ATMs, you can easily deposit / withdraw money. They also provide GIRO card which is accepted in everywhere, despite EC card. Some of them are Commerzbank, Deutsche Bank, Sparkasse. I am using Commerzbank and happy about it.
